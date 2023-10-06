@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| | |e| | |e| |
+| |n|e| | |e| |
 
 |-|-|-|-|-|-|-|
 
@@ -23,3 +23,4 @@ goed geraden
 
 n
 
+goed geraden
