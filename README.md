@@ -19,3 +19,7 @@ Nee, helaas
 
 e
 
+goed geraden
+
+n
+
