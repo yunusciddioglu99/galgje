@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| | | | | | | |
+| | |e| | |e| |
 
 |-|-|-|-|-|-|-|
 
@@ -14,6 +14,7 @@
 ## Beurten
 
 a
+
 Nee, helaas
 
 e
