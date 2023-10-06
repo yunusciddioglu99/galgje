@@ -9,7 +9,7 @@
 |1|2|3|4|5|6|7|
 
 ## Score
-![gallow](./images/5.png)
+![gallow](./images/6.png)
 
 ## Beurten
 
@@ -38,3 +38,5 @@ o
 Nee, helaas
 
 k
+
+Nee, helaas
